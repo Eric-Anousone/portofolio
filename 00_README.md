@@ -11,8 +11,6 @@ Here is my first project, where I present my results regarding the customer anal
 * I built a dashboard using Power BI : Sales_report.pbix
 
 
-![alt text](dashboard1.png)
-
 Comments :
 
 I greatly enjoyed working on this dataset as it involved joining multiple tables and analyzing a lot of data. It also provided me with the opportunity to create my first dashboard on Power BI  with dynamic filters.
